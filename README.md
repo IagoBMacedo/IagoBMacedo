@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Iago
 
-<!--
-**IagoBMacedo/IagoBMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Analysis and Development student focused on backend development with Java and Python.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Somewhere: A Procedurally Generated Driving Game**  
+*Python (Pygame)*  
+- Infinite procedural world  
+- Chunk-based loading  
+- Modular OOP architecture  
+
+## Technologies
+
+- Java  
+- Python  
+- OOP  
+
+## Contact
+
+- Email: iagobdom@gmail.com
