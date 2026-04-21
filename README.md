@@ -12,10 +12,10 @@ Backend developer, primarily focused on Java.
 
 ## Technologies
 
-Languages: Python, Java, C, SQL ( SQLite, PostgreSQL)
-Frameworks/Libraries: Spring Boot, Pygame, Bootstrap, Thymeleaf
-Web Technologies: HTML5, CSS3, JavaScript, JDBC
-Tools & Platforms: GitHub, Git, VS Code, Maven, Docker, Render
+**Languages:** Python, Java, C, SQL ( SQLite, PostgreSQL)  
+**Frameworks/Libraries:** Spring Boot, Pygame, Bootstrap, Thymeleaf  
+**Web Technologies:** HTML5, CSS3, JavaScript, JDBC  
+**Tools & Platforms:** GitHub, Git, VS Code, Maven, Docker, Render  
 
 ## Contact
 
