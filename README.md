@@ -1,6 +1,6 @@
 # Hi, I’m Iago
 
-Backend developer, primarily focused on Java.
+Backend developer focused on Java and backend architecture.
 
 ## Projects
 
@@ -21,7 +21,7 @@ Backend developer, primarily focused on Java.
 **Languages:** Python, Java, C, SQL ( SQLite, PostgreSQL)  
 **Frameworks/Libraries:** Spring Boot, Pygame, Bootstrap, Thymeleaf  
 **Web Technologies:** HTML5, CSS3, JavaScript, JDBC  
-**Tools & Platforms:** GitHub, Git, VS Code, Maven, Docker, Render  
+**Tools & Platforms:** GitHub, Git, VS Code, Maven, Docker, Render
 
 ## Contact
 
