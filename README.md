@@ -13,7 +13,7 @@ Backend developer, primarily focused on Java.
 **Mudman Blues Website**  
 *Java (Spring Boot)*
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/fb97a9eb-ade2-4699-8299-0f23ef562a3f" alt="Wide view of the procedural city" width="50%">
+  <img src="https://github.com/user-attachments/assets/9b327f8a-6ade-4cf2-b76b-bdef71fb163c" alt="Character and car interaction gameplay" width="50%">
 </p>
 
 ## Technologies
