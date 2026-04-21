@@ -7,7 +7,7 @@ Backend developer, primarily focused on Java.
 **Somewhere: A Procedurally Generated Driving Game**  
 *Python (Pygame)*  
 
-**Mudman Blues Website**
+**Mudman Blues Website**  
 *Java (Spring Boot)*
 
 ## Technologies
