@@ -6,6 +6,9 @@ Backend developer, primarily focused on Java.
 
 **Somewhere: A Procedurally Generated Driving Game**  
 *Python (Pygame)*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1634ba30-15ff-402d-a176-0c93ad969f0d" alt="Somewhere Gameplay Preview" width="60%">
+</p>
 
 **Mudman Blues Website**  
 *Java (Spring Boot)*
