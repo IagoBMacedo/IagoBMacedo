@@ -1,20 +1,21 @@
 # Hi, I’m Iago
 
-Systems Analysis and Development student focused on backend development with Java and Python.
+Backend developer, primarily focused on Java.
 
 ## Projects
 
 **Somewhere: A Procedurally Generated Driving Game**  
 *Python (Pygame)*  
-- Infinite procedural world  
-- Chunk-based loading  
-- Modular OOP architecture  
+
+**Mudman Blues Website**
+*Java (Spring Boot)*
 
 ## Technologies
 
-- Java  
-- Python  
-- OOP  
+Languages: Python, Java, C, SQL ( SQLite, PostgreSQL)
+Frameworks/Libraries: Spring Boot, Pygame, Bootstrap, Thymeleaf
+Web Technologies: HTML5, CSS3, JavaScript, JDBC
+Tools & Platforms: GitHub, Git, VS Code, Maven, Docker, Render
 
 ## Contact
 
