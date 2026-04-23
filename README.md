@@ -1,6 +1,6 @@
 # Hi, I’m Iago
 
-Backend developer focused on Java and backend architecture.
+Backend developer focused on Java and backend architecture. Feel free to reach out!
 
 ## Projects
 
