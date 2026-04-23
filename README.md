@@ -6,7 +6,7 @@ Backend developer focused on Java and backend architecture.
 
 **Somewhere: A Procedurally Generated Driving Game**  
 *Python (Pygame)*  
-Somewhere is a minimalist driving game built in Pygame that focuses on atmosphere. It uses procedural generation to create an endless landscape of buildings and mountains, offering the player a meditative 'infinite road trip' experience.
+Somewhere is a game that uses procedural generation to create an endless landscape of buildings and mountains, offering the player a meditative 'infinite road trip' experience.
 <p align="left">
   <img src="https://github.com/user-attachments/assets/1634ba30-15ff-402d-a176-0c93ad969f0d" alt="Somewhere Gameplay Preview" width="50%">
 </p>
