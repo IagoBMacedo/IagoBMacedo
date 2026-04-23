@@ -12,7 +12,7 @@ Somewhere is a game that uses procedural generation to create an endless landsca
 </p>
   
 **Mudman Blues: Full-Stack Music Catalog**  
-*Java (Spring Boot)*
+*Java (Spring Boot)*  
 Mudman Blues is my first full-stack project, born out of a real need to organize my music. It migrates my catalog from scattered files into a structured PostgreSQL database. I implemented a dynamic filtering system to make the discography easy to navigate.
 <p align="left">
   <img src="https://github.com/user-attachments/assets/9b327f8a-6ade-4cf2-b76b-bdef71fb163c" alt="Character and car interaction gameplay" width="50%">
